@@ -1,4 +1,7 @@
 # Haxball-Mod
+
+## Version 4.2
+
 Welcome to haxball Mod, Here you can download 2 things
 
 ![image](https://github.com/Iflorisme/Haxball-Mod/assets/121598029/4fbeb606-519b-4957-b4f9-303e74f5c1b9)
