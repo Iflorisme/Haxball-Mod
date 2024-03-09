@@ -3,3 +3,5 @@ basically you will need to type a id of the map, or type 9 to go into live mode,
 
 Estaras pensando para que sirve esto?
 basicamente necesitaras poner el id de un mapa, o escribir 9 para entrar al modo live, el cual intentara encontrar la id del mapa automaticamente.
+
+Just install python lastest version. And when you are in the installation press "Custom installation" And next click that option which says "PIP" and so now you can use the HaxMods progam but before, run Start.py To install the requirements file and so run the progam.
