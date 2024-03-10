@@ -14,4 +14,8 @@ basicamente necesitaras poner el id de un mapa, o escribir 9 para entrar al modo
 
 Just install python lastest version. And when you are in the installation press "Custom installation" And next click that option which says "PIP" and so now you can use the HaxMods progam but before, run Start.py To install the requirements file and so run the progam.
 
+https://www.python.org/downloads/
+
 Simplemente instale la última versión de Python. Y cuando esté en la instalación, presione "Instalación personalizada" y luego haga clic en la opción que dice "PIP" y ahora puede usar el programa HaxMods, pero antes, ejecute Start.py para instalar el archivo de requisitos y así ejecutar el programa.
+
+https://www.python.org/downloads/
