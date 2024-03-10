@@ -7,7 +7,7 @@
 -- Laggy Words
 
 You probably thinking why is this neccesary for?
-basically you will need to type a id of the map, or type 9 to go into live mode, which basically will try to find the seed or the id of the map, that you actually playing right now.
+well, it has 3 options, Unban, Unban will basically change your user auth, making it another one, and so u can access without problems to any map but your auth will not be the same, About steal private maps, this will be recording the map ids looply, so it gets the ones that cant save and so download it, laggy words, laggy words are to make the host lag for 1 second or 0.50 seconds, its good to troll
 
 Estaras pensando para que sirve esto?
 basicamente necesitaras poner el id de un mapa, o escribir 9 para entrar al modo live, el cual intentara encontrar la id del mapa automaticamente.
