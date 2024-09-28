@@ -1,4 +1,6 @@
-# HaxMods Preview 2.5
+# HaxMods GUI
+
+## I wont be updating this readme.md im busy asf, i have created a .Exe GUI to make it be more easily, instead of a shitty console, i have optimized and implemented the same features but i think i made 2 of them working now "Steal Private maps" "Laggy Words"
 
 ## What it contains?
 
